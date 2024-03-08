@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Перенаправлення на українську версію за замовчуванням
+RewriteCond %{HTTP_ACCEPT_LANGUAGE} ^uk.*
+RewriteRule ^(.*)$ index.uk.html [L]
+
+# Перенаправлення на англійську версію
+RewriteRule ^(.*)$ index.en.html [L]
