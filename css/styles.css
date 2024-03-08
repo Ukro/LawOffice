@@ -1418,6 +1418,7 @@ form input[id='user-name']:focus + .modal-form-input-icon {
   .section-thre-ul-flex {
     display: flex;
     gap: 24px;
+    justify-content: space-around;
   }
 
   .section-thre-plus {
