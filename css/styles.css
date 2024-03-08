@@ -1422,7 +1422,8 @@ form input[id='user-name']:focus + .modal-form-input-icon {
   }
 
   .section-thre-plus {
-    margin-bottom: 72px;
+    margin-top: 32px;
+    margin-bottom: 32px;
   }
 
   .section-thre-flex {
