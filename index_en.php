@@ -19,17 +19,6 @@
       href="https://cdn.jsdelivr.net/npm/modern-normalize@1.1.0/modern-normalize.min.css"
     />
     <link rel="stylesheet" href="./css/styles.css" />
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9Q70J7SRG5"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag('js', new Date());
-
-      gtag('config', 'G-9Q70J7SRG5');
-    </script>
   </head>
 
   <body class="body-index">
@@ -73,7 +62,7 @@
       <section class="section-one section-one-plus section">
         <div class="container">
           <h1 class="heder-sectione-one">
-            Всі види юридичної допомоги
+            Всі види loyer help
             <br />Ведення бухгалтерії
           </h1>
           <button class="button-sectione-one" type="button" data-modal-open>
